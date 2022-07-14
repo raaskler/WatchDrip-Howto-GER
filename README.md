@@ -13,6 +13,5 @@ Hinweise:
 - Ich übernehme keine Haftung gegenüber Hardware, Software oder verloren gegangene Daten
 - Die Funktionen laufen alle über 3rd Party Applikationen
 
-
-
 Was wird benötigt ?
+Um dieser Anleitung folgen zu können benötigst du folgende Sachen:
